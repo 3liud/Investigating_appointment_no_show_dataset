@@ -1,4 +1,5 @@
 # Investigating_appointment_no_show_dataset
+- part of ALX data analyst scholarship. to be immproved momentarily
 
 ### Key Findings:
 There were 22,319 patients who booked an appointment but did not show compared to 88,207 who showed up. 
